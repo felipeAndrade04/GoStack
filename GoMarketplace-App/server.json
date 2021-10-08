@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "123",
+      "title": "Nome do produto 01",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 50
+    },
+    {
+      "id": "1234",
+      "title": "Nome do produto 02",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 60
+    },
+    {
+      "id": "12345",
+      "title": "Nome do produto 03",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 70
+    },
+    {
+      "id": "123456",
+      "title": "Nome do produto 04",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 80
+    },
+    {
+      "id": "1234567",
+      "title": "Nome do produto 05",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 70
+    },
+    {
+      "id": "12345678",
+      "title": "Nome do produto 06",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 80
+    },
+    {
+      "id": "123456789",
+      "title": "Nome do produto 07",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 70
+    },
+    {
+      "id": "1234567890",
+      "title": "Nome do produto 08",
+      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "price": 80
+    }
+  ]
+}
